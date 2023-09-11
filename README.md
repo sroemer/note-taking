@@ -1,6 +1,6 @@
 # note-taking
 
-A place to store and synchronize my nvim-neorg notes
+A place to store and synchronize my notes in markdown format
 
 
 

@@ -1,6 +1,0 @@
-* The Neorg Cheat Sheet
-
-** Mappings
-
-    - <Leader>ni    open neorg workspace
-    - <Leader>nr    close neorg with all opened norg files
